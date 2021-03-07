@@ -1,3 +1,6 @@
 [submodule "Backend-Cinema"]
 	path = Backend-Cinema
 	url = https://github.com/Richie-Z/Backend-Cinema.git
+[submodule "Frontend-Cinema"]
+	path = Frontend-Cinema
+	url = https://github.com/Richie-Z/Frontend-Cinema.git
